@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background: url("Cardelucci-Passion-Fruitcopy.jpg");
+  background-size: cover;
+  color: #000;
+  font-family: Helvetica;
+}
+
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
+
+ul {
+    text-align: center;
+    list-style-type: none;
+}
