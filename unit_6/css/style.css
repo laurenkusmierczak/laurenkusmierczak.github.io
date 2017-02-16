@@ -1,0 +1,167 @@
+@import url("https://use.typekit.net/ftw1gzb.js");
+
+#wrapper{ width: 960px;
+		margin: 0 auto;
+		}
+
+nav { 
+	font-size: 1.8em;
+	float: right;
+}
+nav a {
+  text-decoration: none;
+  color: #ffffff;
+  margin: 1.8em;
+  display: inline-block;
+  float: right;
+  font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+  
+}
+}
+a:hover {
+	background-color: white
+}
+
+.job-left {
+	float:left;
+	width: 560px
+	padding 20px;
+	margin: 0 0 0 30px;
+}
+
+#job-left {
+	background-color: #334ecf
+}
+
+#job-right {
+	background-color: white
+}
+
+.job-right {
+	float: right;
+	width: 560px
+	padding 20px;
+	margin: 0 0 0 30px;}
+
+footer {text-align: center;
+  padding: 1em 0;
+}
+
+h1 {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 100px;
+	text-align: center;
+	color: white;
+	border-bottom: 4px solid #f6c5b7;
+	display: inline-block;
+	
+}
+h2 {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 60px;
+	text-align: center;
+	color: white;
+	padding: .8em 0 0 0;
+	border-bottom: 4px solid #f6c5b7;
+	display: inline-block;
+}
+h3 {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	padding: 0 0 .8em 0;
+}
+
+p {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+	color: #191919;
+}
+#intro {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+
+}
+#Draper {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+#degree {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+}
+
+.about-left {
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	background-color: #191919
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: " ";
+  clear: both;
+  height: 0;
+}
+
+
+
+
+Backrgound images?
+body 
+  background: url("http://laurenkusmierczak.github.io/unit_5/images/portfolio_bg.png");
+  background-size: cover
+
+  div {
+	width: 150px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;
+
+Code from Typekit
+
+<script src="https://use.typekit.net/ftw1gzb.js">
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'ftw1gzb',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>

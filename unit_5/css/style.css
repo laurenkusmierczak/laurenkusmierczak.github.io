@@ -4,15 +4,23 @@ h1{
 	text align: center;
 	font-family: canada-type-gibson, sans-serif;
 	font-style: normal;
-	font-weight: 300;
+	font-weight: 700;
 	font-size: 120px;
+}
+
+h2{
+	text align: center;
+	font-family: canada-type-gibson, sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 60px;
 }
 
 p {
 	text align: center;
 	font-family: canada-type-gibson, sans-serif;
 	font-style: normal;
-	font-weight: 600;
+	font-weight: 300;
 }
 
 
